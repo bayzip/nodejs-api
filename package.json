@@ -13,7 +13,7 @@
   "dependencies": {
     "@sentry/node": "^5.13.2",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "yargs": "^15.0.1"
   },
   "devDependencies": {
